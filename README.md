@@ -4,6 +4,7 @@
 This is the Sculptura T1, my vision of the next generation 3D printers, It features:
 - Toolchanger capabilites with up to 5 hotends/tools.
 - Klipper fimrware, fast and Open Source.
+- A Manta M4P mainboard.
 - Fast and reliable coreXY kinematics.
 - An ultralight hotend Setup based upon Sherpa Mini.
 - It is fully enclosed, ready for demanding materials.
@@ -16,6 +17,7 @@ This is the Sculptura T1, my vision of the next generation 3D printers, It featu
 
 This Project is possible thanks to the Open Source community!
 Thank you to: 
-- Voron Design (Trident)
+- Voron Design (Trident, V2.4R2)
 - Prusa Research (Prusa XL,Prusa MK2(My first 3D printer))
 - E3D (Toolchanger,V6 hotend)
+- BigTreeTech (Manta M4P,TFT35 touchscreen)
