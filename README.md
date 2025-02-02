@@ -21,5 +21,3 @@ Thank you to:
 - Prusa Research (Prusa XL,Prusa MK2(My first 3D printer))
 - E3D (Toolchanger,V6 hotend)
 - BigTreeTech (Manta M4P,TFT35 touchscreen)
-
-![photo 1](Photos/CAD%20Photos/Z%20axis%201.png)
