@@ -22,4 +22,4 @@ Thank you to:
 - E3D (Toolchanger,V6 hotend)
 - BigTreeTech (Manta M4P,TFT35 touchscreen)
 
-![photo 1](Photos/CAD Photos/Z axis 1.png)
+![photo 1](Photos/CAD%20Photos/Z%20axis%201.png)
