@@ -2,10 +2,10 @@
 
 ![DSCI0023](https://github.com/user-attachments/assets/8ce202cc-6661-4a3f-aa82-90043cb3f4e2)
 
-**This is the Sculptura T1, a machine with a vision for the future:
+**This is the Sculptura T1, a machine with a vision for the future:**
 
-_"Uniting many modern machines into a single unit"_
-**
+**_"Uniting many modern machines into a single unit"_**
+
 Eventhough it is meant to be a multitask machine for the moment it focuses on (multimaterial) 3D printing, customisability while maintaining a powerful and next-gen basis and including up to 4 toolheads for future ittterations. In the next versions it will include things such as toolheads and heatbeds for additional purpouses(eg. 3D printing, SAFE laser ingraving, pen plotting, and in any other use case it is just needed to design the toolhead not the whole machine)
 
 
