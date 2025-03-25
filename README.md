@@ -6,12 +6,12 @@
 
 **_"Uniting many modern machines into a single unit"_**
 
-Eventhough it is meant to be a multitask machine for the moment it focuses on (multimaterial) 3D printing, customisability while maintaining a powerful and next-gen basis and including up to 4 toolheads for future ittterations. In the next versions it will include things such as toolheads and heatbeds for additional purpouses(eg. 3D printing, SAFE laser ingraving, pen plotting, and in any other use case it is just needed to design the toolhead not the whole machine)
+Even Though it is meant to be a multitask machine for the moment it focuses on (multimaterial) 3D printing, customizability while maintaining a powerful and next-gen basis and including up to 4 toolheads for future iterations. In the next versions it will include things such as toolheads and heatbeds for additional purposes(eg. 3D printing, SAFE laser engraving, pen plotting, and in any other use case it is just needed to design the toolhead not the whole machine)
 
 
 In the current version (V1), it's features are:
 - Toolchanger capabilites with up to 4 hotends/tools.
-- Klipper fimrware, fast, modern and Open Source.
+- Klipper firmware, fast, modern and Open Source.
 - A Manta M4P mainboard.
 - Fast, precise and reliable coreXY kinematics.
 - An ultralight hotend Setup based upon Sherpa Mini.
