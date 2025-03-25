@@ -22,7 +22,7 @@ In the current version (V1), it's features are:
 - A 3.5" color touchscreen.
 - WiFi connectivity via Mainsail and stylish UI.
 - A full RGB enclosure light.
-- A 12V heater bed with 
+- A 12V heater bed with magnetic PEI steel sheets
 
 This Project is possible thanks to the Open Source community!
 So I would like to thank all of the people that contribute to it and in particular: 
