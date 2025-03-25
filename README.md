@@ -2,7 +2,7 @@
 
 ![DSCI0023](https://github.com/user-attachments/assets/8ce202cc-6661-4a3f-aa82-90043cb3f4e2)
 
-**This is the Sculptura T1, a machine with a vision for the future:**
+**This is the Sculptura T1, a unique machine with a vision for the future:**
 
 **_"Uniting many modern machines into a single unit"_**
 
