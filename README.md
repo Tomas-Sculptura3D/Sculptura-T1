@@ -22,3 +22,5 @@ Thank you to:
 - Prusa Research (Prusa XL,Prusa MK2(My first 3D printer))
 - E3D (Toolchanger,V6 hotend)
 - BigTreeTech (Manta M4P,TFT35 touchscreen)
+
+                                                           posted by Tomas Horacek on 25/03/2025
