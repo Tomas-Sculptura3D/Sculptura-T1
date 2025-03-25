@@ -4,7 +4,7 @@
 
 This is the Sculptura T1, a machine with a vision for the future:
 
-_Uniting many modern machines into a single unit._
+_"Uniting many modern machines into a single unit"_
 
 Eventhough it is meant to be a multitask machine for the moment it focuses on (multimaterial) 3D printing with it's main focus on customisability while maintaining a powerful and next-gen basis and including up to 4 toolheads. In the future it will include things such as toolheads and heatbeds for additional purpouses(eg. 3D printing, SAFE laser ingraving, pen plotting, and if any other use case it is just needed to design the toolhead)
 
