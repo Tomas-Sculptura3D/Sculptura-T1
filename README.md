@@ -1,5 +1,5 @@
 # Sculptura-T1
-![DSCI0003](https://github.com/user-attachments/assets/94984cdd-b91a-4817-a179-362d02c2078e)
+![DSCI0023](https://github.com/user-attachments/assets/789a3805-9b97-486f-a9df-ad4263f90328)
 
 This is the Sculptura T1, my vision of the next generation 3D printers, It features:
 - Toolchanger capabilites with up to 5 hotends/tools.
