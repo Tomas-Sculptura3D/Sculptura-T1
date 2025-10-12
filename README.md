@@ -23,10 +23,9 @@ In the current version (V1), it's features are:
 - WiFi connectivity via Mainsail and stylish UI.
 - A full RGB enclosure light.
 - A 12V heater bed with magnetic PEI steel sheets
-  
-![WhatsApp Image 2025-10-12 at 20 27 55_6a1f9f35](https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf)
 
-This Project is possible thanks to the Open Source community!
+  This Project is possible thanks to the Open Source community!
+  
 So I would like to thank all of the people that contribute to it and in particular: 
 - Voron Design (Trident, V2.4R2)
 - Prusa Research (Prusa XL,Prusa MK2(My first 3D printer)
@@ -35,3 +34,5 @@ So I would like to thank all of the people that contribute to it and in particul
 
 
 posted by Tomas Horacek on 25/03/2025
+  
+<img src="https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf" width="400">
