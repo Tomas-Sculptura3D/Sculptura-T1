@@ -34,5 +34,8 @@ So I would like to thank all of the people that contribute to it and in particul
 
 
 posted by Tomas Horacek on 25/03/2025
-  
-<img src="https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf" width="400">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf" width="400">
+</p>
+
