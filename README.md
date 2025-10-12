@@ -39,11 +39,10 @@ So I would like to thank all of the people that contribute to it and in particul
 "Sculptura T1 latest prototype"
 </p> 
 
-<p align="center">
+
 If you are interested by the project, want to be a part of the adventure or want know more about about Sculptura T1,
 feel free to reach out by:
 t.horacek@student.tue.nl
 +32 476 26 61 18
-</p> 
 
 posted by Tomas Horacek on 12/10/2025
