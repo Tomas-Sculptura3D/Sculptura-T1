@@ -35,7 +35,8 @@ So I would like to thank all of the people that contribute to it and in particul
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf" width="400">
 </p> 
+<p align="center">
 "Sculptura T1 latest prototype"
-
+</p> 
 
 posted by Tomas Horacek on 12/10/2025
