@@ -32,10 +32,10 @@ So I would like to thank all of the people that contribute to it and in particul
 - E3D (Toolchanger,V6 hotend)
 - BigTreeTech (Manta M4P,TFT35 touchscreen)
 
-
-posted by Tomas Horacek on 25/03/2025
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a72d8ed1-67d4-4cab-8dc8-eec4e5d39cbf" width="400">
-</p>
+</p> 
+'Sculptura T1 prototype, 12/10/2025'
 
+
+posted by Tomas Horacek on 12/10/2025
